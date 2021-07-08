@@ -8,6 +8,10 @@
 # y= 24/5
 # y = 24/x
 
+# 3 * 8 = computer * hour
+# computer = 3 * 8 / hour
+
+
 # import math
 # hour = int(input('근무시간을 입력하세요.'))
 # com = math.ceil(24 / hour)
